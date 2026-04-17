@@ -61,9 +61,9 @@ Semana4/
 - [x] Leer Temas T9, T10
 - [x] Completar Ejercicios Complementarios
 - [x] Completar Actividades Prácticas
-- [ ] Realizar Actividad Evaluable
-- [ ] Crear Consolidado Semanal
-- [ ] Hacer commit en Git
+- [x] Realizar Actividad Evaluable
+- [x] Crear Consolidado Semanal
+- [x] Hacer commit en Git
 
 ---
 
