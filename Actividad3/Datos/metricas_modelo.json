@@ -1,0 +1,13 @@
+{
+  "variable_independiente": "ops",
+  "variable_dependiente": "WAR",
+  "pearson": 0.8504,
+  "mae": 0.6332,
+  "rmse": 0.7696,
+  "r2": 0.5508,
+  "n_total": 145,
+  "n_train": 116,
+  "n_test": 29,
+  "coeficiente": 1.3899,
+  "intercepto": 1.8966
+}
